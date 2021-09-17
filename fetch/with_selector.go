@@ -18,7 +18,7 @@ import (
 	"errors"
 	"net/http"
 	"net/url"
-
+	"fmt"
 	"github.com/google/webpackager/urlmatcher"
 )
 
@@ -38,6 +38,8 @@ type withSelector struct {
 }
 
 func (w *withSelector) Do(req *http.Request) (*http.Response, error) {
+	fmt.Printf("req is %#v\n", req)
+	fmt.Printf("w is %#v\n", w)
 	if !w.selector.Match(req.URL) {
 		return nil, ErrURLMismatch
 	}
