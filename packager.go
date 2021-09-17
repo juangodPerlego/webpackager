@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/google/webpackager/resource"
+	"github.com/juangodPerlego/webpackager/resource"
 	"golang.org/x/xerrors"
 )
 

@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/certchain"
+	"github.com/juangodPerlego/webpackager/certchain"
 )
 
 var (

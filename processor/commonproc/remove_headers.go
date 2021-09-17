@@ -15,8 +15,8 @@
 package commonproc
 
 import (
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/processor"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/processor"
 )
 
 var (

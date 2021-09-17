@@ -17,9 +17,9 @@ package resource_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/internal/urlutil"
+	"github.com/juangodPerlego/webpackager/resource"
 )
 
 func TestSetExchange(t *testing.T) {

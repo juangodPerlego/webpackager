@@ -17,7 +17,7 @@ package tomlconfig_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/server/tomlconfig"
+	"github.com/juangodPerlego/webpackager/server/tomlconfig"
 )
 
 func TestReadFromFile(t *testing.T) {

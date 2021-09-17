@@ -23,8 +23,8 @@ import (
 	"time"
 
 	"github.com/WICG/webpackage/go/signedexchange"
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/resource"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/resource"
 	multierror "github.com/hashicorp/go-multierror"
 	"golang.org/x/xerrors"
 )

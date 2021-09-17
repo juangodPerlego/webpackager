@@ -22,8 +22,8 @@ import (
 
 	"github.com/gofrs/flock"
 	"github.com/google/renameio"
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/certchain/certchainutil"
+	"github.com/juangodPerlego/webpackager/certchain"
+	"github.com/juangodPerlego/webpackager/certchain/certchainutil"
 	"github.com/hashicorp/go-multierror"
 )
 

@@ -19,8 +19,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/resource"
+	"github.com/juangodPerlego/webpackager/internal/urlutil"
+	"github.com/juangodPerlego/webpackager/resource"
 )
 
 var (

@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/google/webpackager"
+	"github.com/juangodPerlego/webpackager"
 	multierror "github.com/hashicorp/go-multierror"
 )
 

@@ -19,8 +19,8 @@ in the repository root.
 
 [AMP]: https://amp.dev/
 [AMP Packager]: https://github.com/ampproject/amppackager
-[requirements]: https://github.com/google/webpackager/blob/main/docs/cache_requirements.md
-[Web Packager]: https://github.com/google/webpackager
+[requirements]: https://github.com/juangodPerlego/webpackager/blob/main/docs/cache_requirements.md
+[Web Packager]: https://github.com/juangodPerlego/webpackager
 
 ## Prerequisites
 

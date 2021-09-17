@@ -17,7 +17,7 @@ package cache_test
 import (
 	"testing"
 
-	"github.com/google/webpackager/resource/cache"
+	"github.com/juangodPerlego/webpackager/resource/cache"
 )
 
 func TestOnMemoryCache(t *testing.T) {

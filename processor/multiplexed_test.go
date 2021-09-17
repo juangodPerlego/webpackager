@@ -18,8 +18,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/processor"
+	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
+	"github.com/juangodPerlego/webpackager/processor"
 )
 
 func TestMultiplexedProcessor(t *testing.T) {

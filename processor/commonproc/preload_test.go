@@ -20,10 +20,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/processor/commonproc"
-	"github.com/google/webpackager/resource/preload"
-	"github.com/google/webpackager/resource/preload/preloadtest"
+	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
+	"github.com/juangodPerlego/webpackager/processor/commonproc"
+	"github.com/juangodPerlego/webpackager/resource/preload"
+	"github.com/juangodPerlego/webpackager/resource/preload/preloadtest"
 )
 
 func TestExtractPreloadHeaders(t *testing.T) {

@@ -1,7 +1,7 @@
 # Web Packager
 
 [![Build Status](https://travis-ci.org/google/webpackager.svg?branch=main)](https://travis-ci.org/google/webpackager)
-[![GoDoc](https://godoc.org/github.com/google/webpackager?status.svg)](https://godoc.org/github.com/google/webpackager)
+[![GoDoc](https://godoc.org/github.com/juangodPerlego/webpackager?status.svg)](https://godoc.org/github.com/juangodPerlego/webpackager)
 
 Web Packager is a command-line tool to "package" websites in accordance
 with the specifications proposed at [WICG/webpackage][]. It may look like
@@ -92,7 +92,7 @@ availability) at this moment.
 ## Install
 
 ```shell
-go get -u github.com/google/webpackager/cmd/...
+go get -u github.com/juangodPerlego/webpackager/cmd/...
 ```
 
 

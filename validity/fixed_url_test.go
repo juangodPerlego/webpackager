@@ -18,10 +18,10 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/exchange/exchangetest"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/validity"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
+	"github.com/juangodPerlego/webpackager/internal/urlutil"
+	"github.com/juangodPerlego/webpackager/validity"
 )
 
 func TestFixedURL(t *testing.T) {

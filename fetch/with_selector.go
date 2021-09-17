@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"net/url"
 	"fmt"
-	"github.com/google/webpackager/urlmatcher"
+	"github.com/juangodPerlego/webpackager/urlmatcher"
 )
 
 // ErrURLMismatch is returned by WithSelector clients when the request URL

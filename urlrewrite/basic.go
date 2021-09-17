@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"path"
 
-	"github.com/google/webpackager/internal/urlutil"
+	"github.com/juangodPerlego/webpackager/internal/urlutil"
 )
 
 // CleanPath normalizes the URL path. It basically applies path.Clean to

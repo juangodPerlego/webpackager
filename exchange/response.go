@@ -18,7 +18,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/google/webpackager/resource/preload"
+	"github.com/juangodPerlego/webpackager/resource/preload"
 )
 
 // These are keys used in ExtraData. They are prefixed with "X-WebPackager"

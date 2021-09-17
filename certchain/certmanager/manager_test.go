@@ -18,8 +18,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/webpackager/certchain/certmanager"
-	"github.com/google/webpackager/internal/certchaintest"
+	"github.com/juangodPerlego/webpackager/certchain/certmanager"
+	"github.com/juangodPerlego/webpackager/internal/certchaintest"
 )
 
 func TestManager(t *testing.T) {

@@ -23,8 +23,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/google/webpackager/certchain/certmanager"
-	"github.com/google/webpackager/internal/certchaintest"
+	"github.com/juangodPerlego/webpackager/certchain/certmanager"
+	"github.com/juangodPerlego/webpackager/internal/certchaintest"
 )
 
 func TestDiskCache(t *testing.T) {

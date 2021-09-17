@@ -15,9 +15,9 @@
 package commonproc
 
 import (
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/internal/urlutil"
-	"github.com/google/webpackager/processor"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/internal/urlutil"
+	"github.com/juangodPerlego/webpackager/processor"
 )
 
 // ApplySameOriginPolicy erases the preload links that may load cross-doamin

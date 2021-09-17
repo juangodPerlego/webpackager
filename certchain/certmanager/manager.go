@@ -19,8 +19,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/google/webpackager/certchain"
-	"github.com/google/webpackager/internal/chanutil"
+	"github.com/juangodPerlego/webpackager/certchain"
+	"github.com/juangodPerlego/webpackager/internal/chanutil"
 )
 
 // Config configures Manager.

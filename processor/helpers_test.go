@@ -15,8 +15,8 @@
 package processor_test
 
 import (
-	"github.com/google/webpackager/exchange"
-	"github.com/google/webpackager/processor"
+	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/juangodPerlego/webpackager/processor"
 )
 
 // newTestingProcessor returns a Processor that adds "X-Testing: <value>"
