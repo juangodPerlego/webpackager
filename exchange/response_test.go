@@ -22,10 +22,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
-	"github.com/juangodPerlego/webpackager/resource/preload"
-	"github.com/juangodPerlego/webpackager/resource/preload/preloadtest"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/exchange/exchangetest"
+	"github.com/google/webpackager/resource/preload"
+	"github.com/google/webpackager/resource/preload/preloadtest"
 )
 
 func makeHTTPResponse(payload []byte) *http.Response {

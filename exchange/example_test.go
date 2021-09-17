@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 func ExampleValidPeriod_Contains() {

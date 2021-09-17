@@ -23,9 +23,9 @@ import (
 	"testing"
 
 	"github.com/WICG/webpackage/go/signedexchange"
-	"github.com/juangodPerlego/webpackager/resource"
-	"github.com/juangodPerlego/webpackager/resource/cache"
-	"github.com/juangodPerlego/webpackager/resource/cache/filewrite"
+	"github.com/google/webpackager/resource"
+	"github.com/google/webpackager/resource/cache"
+	"github.com/google/webpackager/resource/cache/filewrite"
 )
 
 func TestStore(t *testing.T) {

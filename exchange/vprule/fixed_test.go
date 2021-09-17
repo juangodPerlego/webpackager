@@ -18,9 +18,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
-	"github.com/juangodPerlego/webpackager/exchange/vprule"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/exchange/exchangetest"
+	"github.com/google/webpackager/exchange/vprule"
 )
 
 func TestFixedLifeTime(t *testing.T) {

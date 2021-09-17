@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
 )
 
 func TestNeverOccurs(t *testing.T) {

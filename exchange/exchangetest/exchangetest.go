@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 func httpResponse(url, respText string) *http.Response {

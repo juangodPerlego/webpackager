@@ -25,7 +25,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/juangodPerlego/webpackager/internal/customflag"
+	"github.com/google/webpackager/internal/customflag"
 	multierror "github.com/hashicorp/go-multierror"
 )
 

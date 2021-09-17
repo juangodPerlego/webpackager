@@ -18,7 +18,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/resource/httplink"
+	"github.com/google/webpackager/resource/httplink"
 )
 
 func TestGet(t *testing.T) {

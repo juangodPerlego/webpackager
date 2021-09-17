@@ -17,7 +17,7 @@ package validity
 import (
 	"net/url"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 // URLRule decides the validity URL of a resource.

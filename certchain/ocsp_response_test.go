@@ -24,7 +24,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/juangodPerlego/webpackager/certchain"
+	"github.com/google/webpackager/certchain"
 	"golang.org/x/crypto/ocsp"
 )
 

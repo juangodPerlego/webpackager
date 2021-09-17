@@ -18,7 +18,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/urlmatcher"
+	"github.com/google/webpackager/urlmatcher"
 )
 
 func TestNot(t *testing.T) {

@@ -18,8 +18,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmltask"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/processor/htmlproc/htmltask"
 )
 
 func TestExtractSubContentTypes(t *testing.T) {

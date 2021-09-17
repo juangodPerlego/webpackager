@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/internal/customflag"
+	"github.com/google/webpackager/internal/customflag"
 )
 
 func TestMultiString(t *testing.T) {

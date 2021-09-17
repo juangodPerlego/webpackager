@@ -17,9 +17,9 @@ package certmanager
 import (
 	"time"
 
-	"github.com/juangodPerlego/webpackager/certchain"
-	"github.com/juangodPerlego/webpackager/certchain/certchainutil"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/certchain"
+	"github.com/google/webpackager/certchain/certchainutil"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
 )
 
 // LocalCertFile is a RawChainSource which reads the certificate chain from

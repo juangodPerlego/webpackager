@@ -19,7 +19,7 @@ package vprule
 import (
 	"time"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 // DefaultRule is the default rule used by webpackager.Packager.

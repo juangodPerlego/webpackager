@@ -20,13 +20,13 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmldoc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmltask"
-	"github.com/juangodPerlego/webpackager/resource/preload"
-	"github.com/juangodPerlego/webpackager/resource/preload/preloadtest"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/exchange/exchangetest"
+	"github.com/google/webpackager/processor/htmlproc"
+	"github.com/google/webpackager/processor/htmlproc/htmldoc"
+	"github.com/google/webpackager/processor/htmlproc/htmltask"
+	"github.com/google/webpackager/resource/preload"
+	"github.com/google/webpackager/resource/preload/preloadtest"
 )
 
 func makeResponse(url, html string) *exchange.Response {

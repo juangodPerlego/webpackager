@@ -24,8 +24,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/juangodPerlego/webpackager/server"
-	"github.com/juangodPerlego/webpackager/server/tomlconfig"
+	"github.com/google/webpackager/server"
+	"github.com/google/webpackager/server/tomlconfig"
 	multierror "github.com/hashicorp/go-multierror"
 )
 

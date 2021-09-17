@@ -15,9 +15,9 @@
 package complexproc_test
 
 import (
-	"github.com/juangodPerlego/webpackager/processor/complexproc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmltask"
+	"github.com/google/webpackager/processor/complexproc"
+	"github.com/google/webpackager/processor/htmlproc"
+	"github.com/google/webpackager/processor/htmlproc/htmltask"
 )
 
 // This example constructs a new Processor that runs a custom HTMLTask and

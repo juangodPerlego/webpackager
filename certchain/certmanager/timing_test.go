@@ -21,8 +21,8 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager"
-	"github.com/juangodPerlego/webpackager/internal/timeutil"
+	"github.com/google/webpackager/certchain/certmanager"
+	"github.com/google/webpackager/internal/timeutil"
 )
 
 func TestFetchAtIntervalsWithEventFactory(t *testing.T) {

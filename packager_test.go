@@ -21,16 +21,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/juangodPerlego/webpackager"
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/exchange/vprule"
-	"github.com/juangodPerlego/webpackager/fetch"
-	"github.com/juangodPerlego/webpackager/fetch/fetchtest"
-	"github.com/juangodPerlego/webpackager/internal/certchaintest"
-	"github.com/juangodPerlego/webpackager/internal/urlutil"
-	"github.com/juangodPerlego/webpackager/processor/complexproc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmltask"
+	"github.com/google/webpackager"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/exchange/vprule"
+	"github.com/google/webpackager/fetch"
+	"github.com/google/webpackager/fetch/fetchtest"
+	"github.com/google/webpackager/internal/certchaintest"
+	"github.com/google/webpackager/internal/urlutil"
+	"github.com/google/webpackager/processor/complexproc"
+	"github.com/google/webpackager/processor/htmlproc"
+	"github.com/google/webpackager/processor/htmlproc/htmltask"
 )
 
 var (

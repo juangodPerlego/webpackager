@@ -17,7 +17,7 @@ package cache
 import (
 	"net/http"
 
-	"github.com/juangodPerlego/webpackager/resource"
+	"github.com/google/webpackager/resource"
 )
 
 // NewOnMemoryCache creates and initializes a new ResourceCache storing

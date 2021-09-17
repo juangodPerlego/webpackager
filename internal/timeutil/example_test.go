@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/internal/timeutil"
+	"github.com/google/webpackager/internal/timeutil"
 )
 
 func Example() {

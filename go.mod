@@ -1,4 +1,4 @@
-module github.com/juangodPerlego/webpackager
+module github.com/google/webpackager
 
 go 1.14
 

@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/certchain"
+	"github.com/google/webpackager/certchain"
 )
 
 func TestReadAugmentedChain_Issued(t *testing.T) {

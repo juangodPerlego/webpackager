@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/juangodPerlego/webpackager/fetch"
+	"github.com/google/webpackager/fetch"
 )
 
 // FetchClient fetches content from a test server.

@@ -18,8 +18,8 @@ package preload
 import (
 	"net/url"
 
-	"github.com/juangodPerlego/webpackager/resource"
-	"github.com/juangodPerlego/webpackager/resource/httplink"
+	"github.com/google/webpackager/resource"
+	"github.com/google/webpackager/resource/httplink"
 )
 
 // Values for the "as" attribute of preload links.

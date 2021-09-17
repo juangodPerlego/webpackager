@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/certchain/certmanager"
+	"github.com/google/webpackager/certchain/certmanager"
 )
 
 // The following code creates a new LocalCertFile that reads cert.pem

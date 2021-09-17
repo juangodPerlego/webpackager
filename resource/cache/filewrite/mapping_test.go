@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/internal/urlutil"
-	"github.com/juangodPerlego/webpackager/resource"
-	"github.com/juangodPerlego/webpackager/resource/cache/filewrite"
+	"github.com/google/webpackager/internal/urlutil"
+	"github.com/google/webpackager/resource"
+	"github.com/google/webpackager/resource/cache/filewrite"
 )
 
 func TestUseURLPathRules_Success(t *testing.T) {

@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
-	"github.com/juangodPerlego/webpackager/processor"
-	"github.com/juangodPerlego/webpackager/processor/preverify"
+	"github.com/google/webpackager/exchange/exchangetest"
+	"github.com/google/webpackager/processor"
+	"github.com/google/webpackager/processor/preverify"
 )
 
 func TestMaxContentLength_Success(t *testing.T) {

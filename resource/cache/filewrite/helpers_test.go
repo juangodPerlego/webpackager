@@ -15,8 +15,8 @@
 package filewrite_test
 
 import (
-	"github.com/juangodPerlego/webpackager/resource"
-	"github.com/juangodPerlego/webpackager/resource/cache/filewrite"
+	"github.com/google/webpackager/resource"
+	"github.com/google/webpackager/resource/cache/filewrite"
 )
 
 // FixedMappingRule returns a MappingRule mapping anything to path.

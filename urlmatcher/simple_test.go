@@ -19,7 +19,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/urlmatcher"
+	"github.com/google/webpackager/urlmatcher"
 )
 
 func TestHasScheme(t *testing.T) {

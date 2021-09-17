@@ -17,7 +17,7 @@ package vprule
 import (
 	"time"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 // FixedLifetime applies a fixed lifetime to all signed exchanges.

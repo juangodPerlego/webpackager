@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/juangodPerlego/webpackager/resource"
+	"github.com/google/webpackager/resource"
 
 	lru "github.com/hashicorp/golang-lru"
 	"golang.org/x/xerrors"

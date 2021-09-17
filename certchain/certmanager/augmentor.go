@@ -19,10 +19,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/certchain"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
-	"github.com/juangodPerlego/webpackager/internal/chanutil"
-	"github.com/juangodPerlego/webpackager/internal/timeutil"
+	"github.com/google/webpackager/certchain"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/internal/chanutil"
+	"github.com/google/webpackager/internal/timeutil"
 )
 
 // Augmentor combines RawChainSource and OCSPRespSource to serve as a Producer.

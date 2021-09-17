@@ -15,7 +15,7 @@
 package filewrite
 
 import (
-	"github.com/juangodPerlego/webpackager/resource/cache"
+	"github.com/google/webpackager/resource/cache"
 )
 
 // Config holds the parameters to NewFileWriteCache.

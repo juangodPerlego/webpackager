@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/urlrewrite"
+	"github.com/google/webpackager/urlrewrite"
 )
 
 func TestBasic(t *testing.T) {

@@ -18,8 +18,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/processor"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/processor"
 )
 
 // ContentTypeProcessor adds the "X-Content-Type-Options: nosniff" header,

@@ -27,9 +27,9 @@ import (
 	"github.com/go-acme/lego/v3/lego"
 	"github.com/go-acme/lego/v3/providers/http/webroot"
 	"github.com/go-acme/lego/v3/registration"
-	"github.com/juangodPerlego/webpackager/certchain"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/certchain"
+	"github.com/google/webpackager/certchain/certmanager"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
 	"golang.org/x/xerrors"
 )
 

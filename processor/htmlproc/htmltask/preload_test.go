@@ -18,9 +18,9 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/processor/htmlproc/htmltask"
-	"github.com/juangodPerlego/webpackager/resource/preload"
-	"github.com/juangodPerlego/webpackager/resource/preload/preloadtest"
+	"github.com/google/webpackager/processor/htmlproc/htmltask"
+	"github.com/google/webpackager/resource/preload"
+	"github.com/google/webpackager/resource/preload/preloadtest"
 )
 
 func TestExtractPreloadTags(t *testing.T) {

@@ -18,7 +18,7 @@ import (
 	"log"
 	"mime"
 
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/exchange"
 )
 
 // MultiplexedProcessor is a map from media types to processors. The map keys

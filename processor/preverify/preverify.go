@@ -19,7 +19,7 @@
 package preverify
 
 import (
-	"github.com/juangodPerlego/webpackager/processor"
+	"github.com/google/webpackager/processor"
 )
 
 // Config holds the parameters to CheckPrerequisites.

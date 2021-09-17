@@ -17,8 +17,8 @@ package cache_test
 import (
 	"net/http"
 
-	"github.com/juangodPerlego/webpackager/internal/urlutil"
-	"github.com/juangodPerlego/webpackager/resource"
+	"github.com/google/webpackager/internal/urlutil"
+	"github.com/google/webpackager/resource"
 )
 
 func makeRequest(rawurl string) *http.Request {

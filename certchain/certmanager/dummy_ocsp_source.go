@@ -17,8 +17,8 @@ package certmanager
 import (
 	"time"
 
-	"github.com/juangodPerlego/webpackager/certchain"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/certchain"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
 )
 
 // DummyOCSPRespSource always returns certchain.DummyOCSPResponse.

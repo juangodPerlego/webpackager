@@ -22,8 +22,8 @@ import (
 	"path"
 
 	"github.com/WICG/webpackage/go/signedexchange/version"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager"
-	"github.com/juangodPerlego/webpackager/exchange"
+	"github.com/google/webpackager/certchain/certmanager"
+	"github.com/google/webpackager/exchange"
 	"golang.org/x/xerrors"
 )
 

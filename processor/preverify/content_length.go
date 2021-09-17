@@ -17,8 +17,8 @@ package preverify
 import (
 	"fmt"
 
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/processor"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/processor"
 )
 
 // MaxContentLength requires the content (the response body) to be not

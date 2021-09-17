@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/juangodPerlego/webpackager/internal/chanutil"
+	"github.com/google/webpackager/internal/chanutil"
 )
 
 func ExampleKiller() {

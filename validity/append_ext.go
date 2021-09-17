@@ -21,8 +21,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/juangodPerlego/webpackager/exchange"
-	"github.com/juangodPerlego/webpackager/internal/urlutil"
+	"github.com/google/webpackager/exchange"
+	"github.com/google/webpackager/internal/urlutil"
 )
 
 // AppendExtDotLastModified generates the validity URL by appending ext

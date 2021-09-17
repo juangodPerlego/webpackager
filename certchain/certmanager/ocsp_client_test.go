@@ -27,10 +27,10 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/juangodPerlego/webpackager/certchain"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager"
-	"github.com/juangodPerlego/webpackager/certchain/certmanager/futureevent"
-	"github.com/juangodPerlego/webpackager/internal/certchaintest"
+	"github.com/google/webpackager/certchain"
+	"github.com/google/webpackager/certchain/certmanager"
+	"github.com/google/webpackager/certchain/certmanager/futureevent"
+	"github.com/google/webpackager/internal/certchaintest"
 	"github.com/jpillora/backoff"
 	"golang.org/x/crypto/ocsp"
 )

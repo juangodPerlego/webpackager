@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/juangodPerlego/webpackager/exchange/exchangetest"
-	"github.com/juangodPerlego/webpackager/processor/commonproc"
+	"github.com/google/webpackager/exchange/exchangetest"
+	"github.com/google/webpackager/processor/commonproc"
 )
 
 func TestContentTypeProcessor(t *testing.T) {
